@@ -1,6 +1,8 @@
 the following excerpt is from my own master's thesis completed at Architecture (Conservation) department of Sapienza University of Rome which was co-supervised by Politecnico di Milano.
 
-thesis: (March 2021) An Urban Regeneration Project for Lanciano (Utilizing GIS and Data Analysis Tools): The Disused Sangritana Railway Line Between Mobility and Historic Networks
+thesis:
+An Urban Regeneration Project for Lanciano (Utilizing GIS and Data Analysis Tools): The Disused Sangritana Railway Line Between Mobility and Historic Networks
+March 2021
 
 " terrain elevation and slope profiles to examine proposed cycle paths
 
