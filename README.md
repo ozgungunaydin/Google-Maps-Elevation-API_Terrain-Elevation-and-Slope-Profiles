@@ -6,7 +6,6 @@ An Urban Regeneration Project for Lanciano (Utilizing GIS and Data Analysis Tool
 
 March 2021
 
-
 " terrain elevation and slope profiles to examine proposed cycle paths
 
 in this section two proposed cycle paths12 in Lanciano and San Vito Chietino are examined within their elevation and slope contexts.
